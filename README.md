@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working at Óticas Carol
-- 🔍 I’m currently looking for work opportunities with technology
+- 🔍 I’m currently develping RPA
 - 🌱 I’m currently learning Angular/Typescript/AspnetCore
 - 🤝 I’m looking to collaborate on open sources projects
 
