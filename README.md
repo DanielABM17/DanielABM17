@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-- 🔍 I’m currently develping RPA
-- 🌱 I’m currently learning Angular/Typescript/AspnetCore
+- 🔍 I’m currently developing RPA
+- 🌱 I’m currently learning Python/C#/AspnetCore
 - 🤝 I’m looking to collaborate on open sources projects
 
 
